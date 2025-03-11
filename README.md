@@ -1,7 +1,7 @@
 
 # OSForensicator
 
-OSForensicator is a PowerShell script that leverages Osquery to collect forensic data from Windows systems. It is designed to aid in security investigations, system troubleshooting, and compliance checks by gathering a comprehensive set of system information.
+OSForensicator is a PowerShell script collect forensic data from Windows systems. It is designed to aid in security investigations, system troubleshooting, and compliance checks by gathering a comprehensive set of system information.
 
 ## Features
 
